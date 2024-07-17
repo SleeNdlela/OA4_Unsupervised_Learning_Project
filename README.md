@@ -1,90 +1,51 @@
-# Streamlit-based Recommender System
+
 #### EXPLORE Data Science Academy Unsupervised Predict
 
-![Movie_Recommendations](resources/imgs/Image_header.png)
+# Anime Recommender System
 
-In today’s technology driven world, recommender systems are socially and economically critical for ensuring that individuals can make appropriate choices surrounding the content they engage with on a daily basis. 
+## Overview
 
-One application where this is especially true surrounds movie content recommendations; where intelligent algorithms can help viewers find great titles from tens of thousands of options
+Welcome to the Anime Recommender System project! This project aims to build a collaborative and content-based recommender system for a collection of anime titles. The system predicts how a user will rate an anime title they have not yet viewed, based on their historical preferences.
 
-## Getting Started
+## Table of Contents
 
-Clone the repository
-```
-https://github.com/monicafar147/unsupervised-predict-streamlit-template.git
-```
+- [Project Overview](#project-overview)
+- [Environment Setup](#environment-setup)
+- [Project Structure](#project-structure)
+- [Usage](#usage)
+- [Model Training and Evaluation](#model-training-and-evaluation)
+- [Streamlit Application](#streamlit-application)
+- [Contributing](#contributing)
+- [License](#license)
 
-### Prerequisites
+## Project Overview
 
-The following packages need to be installed:
+This project involves several key components:
+- Data loading and preprocessing
+- Model training and evaluation
+- Building a recommender system using collaborative filtering and content-based filtering
+- Developing a Streamlit web application for user interaction
+- Deployment and final presentation
 
-```
-pip install -U streamlit numpy pandas scikit-learn
-conda install -c conda-forge scikit-surprise
-```
+## Environment Setup
 
-### Installing
+To set up the environment for this project, follow these steps:
 
-The main product is a streamlit app.
+### Step 1: Install Anaconda
 
-To run the app locally:
+Download and install Anaconda from [here](https://www.anaconda.com/products/distribution).
 
-```
-cd unsupervised-predict-streamlit-template/
-streamlit run edsa_recommender.py
-```
-The app contains 5 main pages:
-1. Recommender System
-  - content based approach
-  - collaborative based approach
-2. Solution Overview
-3. Data analysis and plots
-4. Meet the team
-5. Slide deck
+### Step 2: Create a New Conda Environment
 
-## Running the tests
+Create a new conda environment using the `requirements.txt` file.
 
-- Go to the Recommender System page
-- choose an algorithm that you want to test
-- choose 3 movies from each dropdown
-- click the recommend button
+```bash
+# Create a new environment (e.g., named 'anime_recommender')
+conda create --name anime_recommender python=3.8
 
-### Break down into recommender output
+# Activate the new environment
+conda activate anime_recommender
 
-The output will be the top ten movies recommended.
-
-The output from the content based model is based on
-- genres
-- actors
-
-The output from the collaborative based model is based on
-- user to user ratings 
-
-## Deployment
-
-The streamlit app can be deployed on an AWS EC2 instance.
-
-The app is memory intensive and a minimum of 16gb RAM is recommended.
-
-On the instance:
-```
-pip install -U streamlit numpy pandas scikit-learn
-conda install -c conda-forge scikit-surprise
-tmux
-streamlit run --server.port 5000 edsa_recommender.py
-```
-To keep the app running continuously in the background:
-Detach from the Tmux window by pressing ```ctrl + b``` and then ```d```. 
-
-This should return you to the view of your terminal before you opened the Tmux window.
-
-To go back to the Tmux window at any time (even if you've left your ssh session and then return):
-Simply type ```tmux attach-session.```
-
-## Built With
-
-* [EXPLORE](https://github.com/Explore-AI/unsupervised-predict-streamlit-template) - The template we used
-* [Streamlit](https://www.streamlit.io/)- App framework 
 
 ## 7. Team Members<a class="anchor" id="team-members"></a>
 | Name                                                                                        |  Email              
