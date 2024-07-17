@@ -1,6 +1,3 @@
-
-#### EXPLORE Data Science Academy Unsupervised Predict
-
 # Anime Recommender System
 
 ## Overview
