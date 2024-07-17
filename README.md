@@ -100,21 +100,40 @@ python src/data_preprocessing.py
 ## Model Training and Evaluation
 To train and evaluate the models, use the model_training.ipynb and model_evaluation.ipynb notebooks or execute the corresponding scripts:
 
+```bash
+python src/model_training.py
+python src/model_evaluation.py
+```
+## Streamlit Application
+To run the Streamlit application, execute the following command:
+
+``` bash
+streamlit run streamlit_app/app.py
+```
+Important Links
+Facilitator GitHub Usernames
+Managing Environments
+Jupyter Notebook Markdown Cheatsheet
+MLflow Guide
+Streamlit Guide
+Tutorial on Recommender Systems
+Configuring Git Large File Storage
+Thank you for checking out our project! We hope you find it interesting and useful.
+
 
 ## 7. Team Members<a class="anchor" id="team-members"></a>
 | Name                                                                                        |  Email              
 |---------------------------------------------------------------------------------------------|--------------------             
-| [Tumelo Matamane](https://github.com/MetaXide)                                                      |  tumelomatamane1@gmail.com
-| [Nelisiwe Bezana](https://github.com/NelisiweBezana)                                                                                  | nelisiwebezana@gmail.com
-| [Abel Masotla](https://github.com/Masotlaabel)                                                   | masotlaabel@gmail.com
-| [Nolwazi Vezi](https://github.com/Lwazikayise)                                                | nolwazinvd@gmail.com
-| [Khuphukani Maluleke](https://github.com/khupukani)                                         | khupukanimaluleke@gmail.com
-| [Slindile Ndlela](https://github.com/SleeNdlela)                                                 | slindilendlela11@gmail.com
-
+| [Silindile Ndlela]()                                                      |  
+| [Sandile Jali](a)                                                             | 
+| [Queen]()                                                   | 
+| [Sinawo]()                                                | 
+| [Johannes]()                                         | 
+| []()                                                 | 
 
 ## Acknowledgments
 
 
-* Towards data science blog posts
-* Medium blog posts
-* Explore Data Science Academy
+* 
+* 
+* 
