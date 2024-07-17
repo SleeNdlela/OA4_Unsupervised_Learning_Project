@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the Anime Recommender System project! This project aims to build a collaborative and content-based recommender system for a collection of anime titles. The system predicts how a user will rate an anime title they have not yet viewed, based on their historical preferences.
+Welcome to the Anime Recommender Streamlit System project! This project aims to build a collaborative and content-based recommender system based on Streamlit for a collection of anime titles. The system predicts how a user will rate an anime title they have not yet viewed, based on their historical preferences.
 
 ## Table of Contents
 
