@@ -45,9 +45,7 @@ conda create --name anime_recommender python=3.8
 
 # Activate the new environment
 conda activate anime_recommended
-
-# Install packages listed in requirements.txt
-pip install -r requirements.txt
+```
 
 ### Step 3: Install Required Packages
 Install the packages listed in requirements.txt.
