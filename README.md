@@ -1,5 +1,7 @@
 # Anime Recommender System
 
+![Movie_Recommendations](resources/imgs/Image_header.png)
+
 ## Overview
 
 Welcome to the Anime Recommender Streamlit System project! This project aims to build a collaborative and content-based recommender system based on Streamlit for a collection of anime titles. The system predicts how a user will rate an anime title they have not yet viewed, based on their historical preferences.
