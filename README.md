@@ -44,7 +44,13 @@ Create a new conda environment using the `requirements.txt` file.
 conda create --name anime_recommender python=3.8
 
 # Activate the new environment
-conda activate anime_recommender
+conda activate anime_recommended
+
+# Install packages listed in requirements.txt
+pip install -r requirements.txt
+
+### Step 3: Install Required Packages
+Install the packages listed in requirements.txt.
 
 
 ## 7. Team Members<a class="anchor" id="team-members"></a>
@@ -60,7 +66,7 @@ conda activate anime_recommender
 
 ## Acknowledgments
 
-* Xolisa Mzini (supervisor)
+
 * Towards data science blog posts
 * Medium blog posts
 * Explore Data Science Academy
