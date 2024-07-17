@@ -1,6 +1,6 @@
 # Anime Recommender System
 
-![Movie_Recommendations](resources/imgs/Image_header.png)
+![Movie_Recommendations](Readme.png)
 
 ## Overview
 
