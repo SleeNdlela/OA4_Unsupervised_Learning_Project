@@ -86,14 +86,16 @@ Simply type ```tmux attach-session.```
 * [EXPLORE](https://github.com/Explore-AI/unsupervised-predict-streamlit-template) - The template we used
 * [Streamlit](https://www.streamlit.io/)- App framework 
 
-## Authors
+## 7. Team Members<a class="anchor" id="team-members"></a>
+| Name                                                                                        |  Email              
+|---------------------------------------------------------------------------------------------|--------------------             
+| [Tumelo Matamane](https://github.com/MetaXide)                                                      |  tumelomatamane1@gmail.com
+| [Nelisiwe Bezana](https://github.com/NelisiweBezana)                                                                                  | nelisiwebezana@gmail.com
+| [Abel Masotla](https://github.com/Masotlaabel)                                                   | masotlaabel@gmail.com
+| [Nolwazi Vezi](https://github.com/Lwazikayise)                                                | nolwazinvd@gmail.com
+| [Khuphukani Maluleke](https://github.com/khupukani)                                         | khupukanimaluleke@gmail.com
+| [Slindile Ndlela](https://github.com/SleeNdlela)                                                 | slindilendlela11@gmail.com
 
-* **MONICA FARRELL** - *DevOps engineer* - [monicafar147](https://github.com/monicafar147)
-* **ZINTLE FALTEIN-MAQUBELA** - *App developer* - [ZintleFaltein](https://github.com/ZintleFaltein)
-* **JONATHAN DANKERS** - *Solution engineer* - [jonnybegreat](https://github.com/jonnybegreat)
-* **JUANDRE LIEBENBERG** - *Solution engineer* - [JuandreLiebenberg](https://github.com/JuandreLiebenberg7)
-* **ANDA MCHAKO** - *Data analyst* - [andamchako](https://https://github.com/andamchako)
-* **LUVUYO NKOSANA** - *Data analyst* - [luvuyonkosana](https://github.com/luvuyonkosana)
 
 ## Acknowledgments
 
