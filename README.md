@@ -1,6 +1,6 @@
 # Anime Recommender System
 
-![Movie_Recommendations](Readme.png)
+![Lead Coversion](Readme.png)
 
 ## Overview
 
